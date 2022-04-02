@@ -1,8 +1,6 @@
 require("@nomiclabs/hardhat-waffle");
 require('dotenv').config();
 
-
-// const ALCHEMY_API_KEY = "MgnteiHFiKuNieqqijiCO8491QQ5OXPx";
 const GANACHE_PRIVATE_KEY = "1bb0749622e8b7f88c5c00b4e99975f647c47691966bd678b21686aaebccd092";
 /**
  * @type import('hardhat/config').HardhatUserConfig
